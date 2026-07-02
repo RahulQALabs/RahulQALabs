@@ -43,11 +43,11 @@
 
 | Metric | Value |
 |:---:|:---:|
-| 🧪 Total Test Cases Managed | **1,250+** |
-| 🤖 Automation Coverage | **85%** |
-| ✅ Avg. Pass Ratio | **96.2%** |
-| ⏱️ Regression Savings | **~40%** |
-| 👥 QA Engineers Mentored | **50+** |
+| 🧪 Total Test Cases Managed | **** |
+| 🤖 Automation Coverage | **** |
+| ✅ Avg. Pass Ratio | **** |
+| ⏱️ Regression Savings | **** |
+| 👥 QA Engineers Mentored | **** |
 
 </div>
 
@@ -57,10 +57,10 @@
 $ npm run test:regression
 
 → Initializing Selenium Grid...
-→ Running 1,250 test cases...
+→ Running ... test cases...
 
-  Pass Rate:        98.2%
-  Execution Time:   4.2 hours (Reduced by 40%)
+  Pass Rate:        
+  Execution Time:   ? hours (Reduced by 40%)
   Coverage:         API, UI, Mobile, DB
 
 ✓ Deployment Ready
@@ -68,7 +68,7 @@ $ npm run test:regression
 
 ### 🏅 Trusted Framework Expert In
 
-`Java` · `TypeScript` · `Playwright` · `CI/CD` · `ISTQB`
+`Java` · `TypeScript` · `Playwright` · `CI/CD` ·
 
 ---
 
