@@ -104,15 +104,6 @@ $ npm run test:regression
 
 </details>
 
----
-|---|---|
-| 2011 – 2012 | Planet Online Pvt. Ltd. | Senior SQA |
-| 2008 – 2011 | Shlok Labs Pvt. Ltd. | Software Test Engineer |
-
-</details>
-
----
-
 ## 🔬 Testing Portfolio
 
 > *A selection of frameworks and strategies I've architected to solve complex quality engineering challenges.*
