@@ -296,15 +296,14 @@ Perf Tests  ██░░░░░░░░░░░░░░░░░░░░�
 
 | Certification | Badge |
 |:---|:---:|
-| Tricentis Tosca Automation Specialist – Level 1 & Level 2 | 🎖️ |
-| ISTQB Certified Tester – Foundation Level (CTFL) | 🎖️ |
+| HP Core Java & Advance Java | 🎖️ |
+| Industrial Training at Tata CMC ( Java Level 1 & 2) | 🎖️ |
 
 ### 🎓 Academic Background
 
 | Degree | University |
 |:---|:---|
-| MBA – Information Systems | Bharathiar University |
-| B.E – Electronics & Communication Engineering | Anna University |
+| B. Tech – Information Technology | Bhabha College Of Engineering |
 
 </div>
 
