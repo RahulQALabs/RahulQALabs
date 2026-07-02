@@ -329,7 +329,7 @@ Perf Tests  ██░░░░░░░░░░░░░░░░░░░░�
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| [assathish.30@gmail.com](mailto:assathish.30@gmail.com) | [sathishkumar-a-s](https://www.linkedin.com/in/rahul-gupta-0b29a711a) | [SathishQASelenium](https://github.com/automationtechiesindia) | Bengaluru, Karnataka, India |
+| [automationtechiesindia@gmail.com](mailto:assathish.30@gmail.com) | [rahul-gupta](www.linkedin.com/in/rahul-gupta-0b29a711a) | [RahulQALabs](https://github.com/RahulQALabs) | Bengaluru, Karnataka, India |
 
 <br>
 
