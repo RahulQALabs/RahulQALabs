@@ -10,7 +10,7 @@
 
 <br>
 
-**Engineering Quality at Scale** · 16+ years in Test Automation & QA Leadership
+**Delivering Quality Through Test Automation** · 8+ years in Test Automation & QA, design framework
 
 <br>
 
@@ -29,13 +29,13 @@
 
 <div align="center">
 
-> *With 16+ years of experience in test automation and leadership, I build robust testing ecosystems using Selenium, Playwright, and AI-assisted methodologies to ensure high-performance enterprise applications.*
+> *With 8+ years of experience in Quality Assurance and Test Automation, I design and build robust automation frameworks using Selenium, Playwright, REST Assured, and Java to deliver reliable, scalable, and high-quality software solutions.*
 
 </div>
 
-### 🔑 Core Competencies
+### 🔑 Core Competencies -git status
 
-`Test Automation Strategy` · `Selenium` · `Playwright` · `REST Assured` · `API Automation` · `Automation Framework Design` · `CI/CD Testing` · `Agile QA` · `Performance Testing (JMeter)` · `SQL Validation` · `Test Leadership` · `AI in Test Automation` · `Self-Healing Locators` · `Smart Test Design`
+`Test Automation Strategy` · `Selenium` · `Playwright` · `REST Assured` · `API Automation` · `Automation Framework Design` · `CI/CD Testing` · `Agile QA` · `SQL Validation` · `AI in Test Automation` · `Self-Healing Locators` · `Smart Test Design`
 
 ### ⚡ Quick Stats
 
